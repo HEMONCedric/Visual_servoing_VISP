@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/cedri/OneDrive/Bureau/Master 1/AVIO/TP_AVIO_ViSP/Source/src/CMakeLists.txt
+cl : ligne de commande warning D9002: option '-std=c++11' inconnue ignorée
+  Visual_Servoing.cpp
+C:\Users\cedri\OneDrive\Bureau\Master 1\AVIO\TP_AVIO_ViSP\Source\src\Visual_Servoing.cpp(30,4): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+  Visual_Servoing.vcxproj -> C:\Users\cedri\OneDrive\Bureau\Master 1\AVIO\TP_AVIO_ViSP\Source\build\src\Release\Visual_Servoing.exe

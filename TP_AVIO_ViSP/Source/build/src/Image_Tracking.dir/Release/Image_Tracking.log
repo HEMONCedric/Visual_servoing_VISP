@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/cedri/OneDrive/Bureau/Master 1/AVIO/TP_AVIO_ViSP/Source/src/CMakeLists.txt
+cl : ligne de commande warning D9002: option '-std=c++11' inconnue ignorée
+  Image_Tracking.cpp
+C:\Users\cedri\OneDrive\Bureau\Master 1\AVIO\TP_AVIO_ViSP\Source\src\Image_Tracking.cpp(20,5): warning C4530: Gestionnaire d'exceptions C++ utilisé, mais les sémantiques de déroulement n'ont pas été activées. Spécifiez /EHsc
+  Image_Tracking.vcxproj -> C:\Users\cedri\OneDrive\Bureau\Master 1\AVIO\TP_AVIO_ViSP\Source\build\src\Release\Image_Tracking.exe

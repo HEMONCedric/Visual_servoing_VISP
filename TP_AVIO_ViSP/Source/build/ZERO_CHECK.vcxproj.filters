@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cedri\OneDrive\Bureau\Master 1\AVIO\TP_AVIO_ViSP\Source\build\CMakeFiles\ce80675f6ab333a2fb9b0465b884de99\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7F7847AD-0C32-3A48-8713-3A4B9FC00329}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

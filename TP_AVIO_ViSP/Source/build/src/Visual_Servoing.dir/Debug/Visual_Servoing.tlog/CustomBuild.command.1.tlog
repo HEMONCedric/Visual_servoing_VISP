@@ -1,0 +1,10 @@
+^C:\USERS\CEDRI\ONEDRIVE\BUREAU\MASTER 1\AVIO\TP_AVIO_VISP\SOURCE\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/cedri/OneDrive/Bureau/Master 1/AVIO/TP_AVIO_ViSP/Source" "-BC:/Users/cedri/OneDrive/Bureau/Master 1/AVIO/TP_AVIO_ViSP/Source/build" --check-stamp-file "C:/Users/cedri/OneDrive/Bureau/Master 1/AVIO/TP_AVIO_ViSP/Source/build/src/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

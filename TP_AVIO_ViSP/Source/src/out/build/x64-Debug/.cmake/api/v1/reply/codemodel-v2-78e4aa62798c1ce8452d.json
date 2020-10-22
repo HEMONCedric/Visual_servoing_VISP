@@ -1,0 +1,73 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Image_Tracking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Image_Tracking-Debug-2e46b4ad75feec6934ac.json",
+					"name" : "Image_Tracking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Visual_Servoing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Visual_Servoing-Debug-b597c652130f18becec5.json",
+					"name" : "Visual_Servoing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "headers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-headers-Debug-9bacef632935328e3060.json",
+					"name" : "headers",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/cedri/OneDrive/Bureau/Master 1/AVIO/TP_AVIO_ViSP/Source/src/out/build/x64-Debug",
+		"source" : "C:/Users/cedri/OneDrive/Bureau/Master 1/AVIO/TP_AVIO_ViSP/Source/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

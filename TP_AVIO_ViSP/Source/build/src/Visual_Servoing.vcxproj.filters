@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cedri\OneDrive\Bureau\Master 1\AVIO\TP_AVIO_ViSP\Source\src\Visual_Servoing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cedri\OneDrive\Bureau\Master 1\AVIO\TP_AVIO_ViSP\Source\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{539B75CA-8068-36E1-9C2E-4918A595AA87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
